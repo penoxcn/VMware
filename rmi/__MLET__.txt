@@ -1,0 +1,7 @@
+<HTML>
+<MLET
+  CODE=__CLASS__.class
+  ARCHIVE=__ARCHIVE__
+  NAME=__CLASS__MBean:name=__CLASS__MBean,id=1
+>
+</MLET>
